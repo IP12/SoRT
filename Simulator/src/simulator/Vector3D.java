@@ -6,7 +6,7 @@ package simulator;
 
 /**
  *
- * @author AnarH
+ * @author Andrew "AnarH" Skrypnik
  */
 public class Vector3D {
 

@@ -10,7 +10,7 @@ import javax.media.j3d.BranchGroup;
 
 /**
  *
- * @author AnarH
+ * @author Andrew "AnarH" Skrypnik
  */
 public class Simulator {
 
